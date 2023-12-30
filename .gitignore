@@ -1,3 +1,4 @@
 node_modules/
 dist/bundle.js
 firebase.config.json
+public/bundle.js
