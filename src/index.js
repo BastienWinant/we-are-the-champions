@@ -29,6 +29,8 @@ function getInputDetails() {
   const fromName = fromInput.value
   const toName = toInput.value
 
+  // TODO: check that the endorsementText and toName are not empty strings
+
   const postDetails = {
     text: endorsementText,
     from: fromName,
